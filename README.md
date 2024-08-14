@@ -22,6 +22,6 @@ The Expense Tracker is a full-featured web application designed to help users ma
 ### 4. Reporting & Data Export
 - **Reports Generation**: Create detailed reports on expenses and income.
 - **Data Export**: Export data in CSV, PDF formats for offline access.
-- 
+  
 ### 5. Responsive Design & Mobile Support
 - **Responsive UI**: Fully responsive design with mobile-first approach.
