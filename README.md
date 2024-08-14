@@ -1,5 +1,7 @@
 # Expense Tracker - MERN Stack Project
 
+Expense Tracker is a comprehensive financial management application designed to help users monitor their income, expenses, and overall financial health. This project offers insightful visualizations and summaries, empowering users to manage their finances more effectively.
+
 ## Overview
 
 The Expense Tracker is a full-featured web application designed to help users manage their finances efficiently. Built using the MERN (MongoDB, Express, React, Node.js) stack, this project includes a variety of modules and features that allow users to track expenses and handle financial transactions seamlessly.
